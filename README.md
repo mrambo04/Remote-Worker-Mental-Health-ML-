@@ -1,5 +1,6 @@
 # 📊 Remote Worker Mental Health Prediction using Machine Learning
 
+This project investigates how remote-working conditions impact mental health and builds a machine-learning model to predict mental-health outcomes for remote workers.
 ## 📘 Overview  
 This project investigates how remote-working conditions impact mental health and builds a machine-learning model to predict mental-health outcomes for remote workers.
 
@@ -33,7 +34,8 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 This model can help HR teams and remote-work strategists to:  
 - Proactively identify employees at higher risk of mental-health challenges due to remote work conditions  
 - Tailor remote-work policies (virtual-meeting load, company support) to safeguard employee well-being  
-- Monitor changes over time in remote-work settings and adapt interventions  
+- Monitor changes over time in remote-work settings and adapt interventions
+- Here App link [https://mentalhealthstatus.streamlit.app/] 
 
 ---
 
